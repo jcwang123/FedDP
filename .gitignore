@@ -1,0 +1,10 @@
+logs/
+papers/
+weights/
+# scripts/
+# utils/
+*.pyc
+*.pth
+networks/Segmenter/
+networks/XBoundFormer/
+exps/
